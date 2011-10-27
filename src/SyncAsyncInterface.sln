@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Backend", "Backend\Backend.csproj", "{98D90338-B7A2-4495-9F34-7A4CAB79713F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contracts", "Contracts\Contracts.csproj", "{28AA73D2-ABE2-41AB-A13B-082C0E8E4336}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Front", "Front\Front.csproj", "{29A36B6F-B84F-4E4A-B43C-664D76C8341E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98D90338-B7A2-4495-9F34-7A4CAB79713F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98D90338-B7A2-4495-9F34-7A4CAB79713F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98D90338-B7A2-4495-9F34-7A4CAB79713F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98D90338-B7A2-4495-9F34-7A4CAB79713F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28AA73D2-ABE2-41AB-A13B-082C0E8E4336}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28AA73D2-ABE2-41AB-A13B-082C0E8E4336}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28AA73D2-ABE2-41AB-A13B-082C0E8E4336}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28AA73D2-ABE2-41AB-A13B-082C0E8E4336}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29A36B6F-B84F-4E4A-B43C-664D76C8341E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29A36B6F-B84F-4E4A-B43C-664D76C8341E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29A36B6F-B84F-4E4A-B43C-664D76C8341E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29A36B6F-B84F-4E4A-B43C-664D76C8341E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
